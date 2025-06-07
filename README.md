@@ -4,7 +4,7 @@ Este repositório contém uma série de exercícios práticos para solidificar s
 
 ---
 
-## Como Começar
+## Como Começar 
 
 Para rodar os exercícios, você precisará ter o [Node.js](https://nodejs.org/en/download/) e o [TypeScript](https://www.typescriptlang.org/download) instalados em sua máquina.
 
